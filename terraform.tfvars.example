@@ -1,0 +1,9 @@
+user = ""
+basename = ""
+
+gcp_project = ""
+gcp_region = ""
+cert_url = "projects/[PROJECTID]/global/sslCertificates/[CERTID]"
+
+iap_client_id = ""
+iap_client_secret = ""
